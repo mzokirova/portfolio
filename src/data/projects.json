@@ -1,26 +1,80 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Country Search App",
+    "imageSrc": "projects/countryGuide.png",
+    "description": "This is my first project with API.User enters country in lower or upper case and app displays data",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://my-country-search-app.netlify.app/",
+    "source": "https://github.com/mzokirova/country-guide-app"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "TO-DO LIST",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made to learn the local session in Javascript. Whenever user enter tasks to input, it saves and displays the list",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://mztodo-list.netlify.app/",
+    "source": "https://github.com/mzokirova/tod0"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "DICTIONARY",
+    "imageSrc": "projects/dictionary.png",
+    "description": "This is a project made to learn to work with objects in API.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://my-dictionarya-app.netlify.app/",
+    "source": "https://github.com/mzokirova/dictionary"
+  },
+  {
+    "title": "Prayer Timer",
+    "imageSrc": "projects/prayer.png",
+    "description": "This is a project shows Islamic prayer times in a real time.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://my-namoz-vaqtl.netlify.app/",
+    "source": "https://github.com/mzokirova/namoz-vaqti"
+  },
+  {
+    "title": "Mini Wikipedia",
+    "imageSrc": "projects/wiki.png",
+    "description": "This is a project that mini clone of Wikipedia",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://wikipedia-hoor.netlify.app/",
+    "source": "https://github.com/mzokirova/wikipedia-api"
+  },
+  {
+    "title": "QR CODE GENERATOR",
+    "imageSrc": "projects/qrcode.png",
+    "description": "This  project generates QR code of text or URL",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://hoor-qr-code-generator.netlify.app/",
+    "source": "https://github.com/mzokirova/qr-code-generator"
   }
 ]
