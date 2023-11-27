@@ -76,5 +76,31 @@
     ],
     "demo": "https://hoor-qr-code-generator.netlify.app/",
     "source": "https://github.com/mzokirova/qr-code-generator"
+  },
+  {
+    "title": "Bankist",
+    "imageSrc": "projects/bankist.png",
+    "description": "Bankist app ",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JS"
+    ],
+    "demo": "https://roaring-klepon-bankist.netlify.app/",
+    "source": "https://github.com/mzokirova/bankist"
+  },
+  {
+    "title": "Bag Store",
+    "imageSrc": "projects/bagStore.png",
+    "description": "Bag Store ,one page e-commerce site",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "REACT"
+    ],
+    "demo": "https://bag-store-ecommerce.netlify.app/",
+    "source": "https://github.com/mzokirova/bag-store"
   }
 ]
